@@ -1,0 +1,10 @@
+Clases 
+
+public static void.Mostrar(){} --> metodo estatico (solo se lo invoca con la clase  ej: clase.mostrar) No se ultiliza el this.
+
+public void mostrar(){} --> metodo de minstancia (solo se lo invoca por un objeto o instancia de la clase ej obj=new clase();  obj.mostrar()) Se utiliza this.
+
+
+www.aregtnina.gob.ar/111mil
+
+info111mil@produccion.gob.ar
